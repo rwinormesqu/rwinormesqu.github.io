@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rwinormesqu.github.io/sitemap.html
+Sitemap: https://rwinormesqu.github.io/app/sitemap.html
+Sitemap: https://rwinormesqu.github.io/assets/sitemap.html
+Sitemap: https://rwinormesqu.github.io/css/sitemap.html
+Sitemap: https://rwinormesqu.github.io/includes/sitemap.html
+Sitemap: https://rwinormesqu.github.io/item/sitemap.html
+Sitemap: https://rwinormesqu.github.io/src/sitemap.html
